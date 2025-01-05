@@ -1,1 +1,1 @@
-# socialpanel
+# bolt-generated-project
